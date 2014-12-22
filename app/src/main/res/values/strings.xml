@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_back_text">Back</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="hello_main_fragment">Hello Main Fragment</string>
+    <string name="hello_simple_fragment">Hello Simple Fragment</string>
+    <string name="hello_main_activity">Hello Main Activity</string>
+    <string name="fragment_main_btn_to_blank_fragment_text">to Blank Fragment</string>
+    <string name="fragment_main_btn_to_main_fragment_text">to Main Fragment</string>
+    <string name="fragment_main_btn_to_simple_fragment_text">to Simple Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_value_hint">Write something!</string>
+    <string name="fragment_main_tvvalue_hint">Value: %1$s</string>
+
+
+</resources>
